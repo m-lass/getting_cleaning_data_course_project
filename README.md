@@ -9,3 +9,5 @@ The run_analysis.R script aggregates the HAR data from the train and test sets i
 extracts only the mean and standard deviation for each type of measurement, and creates a second dataset named "haraverages" which includes the 
 averages by subject and by activity for each selected measurement variable. It then exports this table as a text file.
 Additional information on the step-by-step treatment of the data is available in comment in the R script itself.
+The code book contains the list and description of the HAR averages final table. It is available both in xlsx for reading comfort and txt for
+a wider accessibility.
